@@ -7,7 +7,7 @@ Craftrise dünyası için geliştirdiğim tüm araçlara, modüllere ve güncel 
 
 ### 📂 Modül Dizini
 
-*   **`İsteklerim/`**: Özel olarak geliştirdiğim ve talep üzerine eklenen tüm araçlar burada.
+*   **`Bulunanlar/`**: Özel olarak geliştirdiğim ve talep üzerine eklenen tüm araçlar burada.
 *   **`Sizinkiler/`**: Başkalarının Craftrise için hazırladığı, topluluğun beğendiği projeleri buradan inceleyebilirsiniz.
 *   **`Geliştirilenler/`**: Şu an üzerinde aktif olarak çalıştığım ve geliştirme aşamasında olan projeler burada yer almaktadır.
 
