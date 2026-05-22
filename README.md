@@ -1,7 +1,5 @@
 # 🛠 Craftrise Yazılım Köşesi
 
-![Profil Resmi](https://sokakticareti.com/profil/resim/ahmedglckc)
-
 **Aradığınız her şey burada.** 
 Craftrise dünyası için geliştirdiğim tüm araçlara, modüllere ve güncel yazılımlara bu panel üzerinden ulaşabilirsiniz.
 
