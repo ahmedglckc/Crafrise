@@ -13,8 +13,6 @@ Craftrise dünyası için geliştirdiğim tüm araçlara, modüllere ve güncel 
 *   **`Sizinkiler/`**: Başkalarının Craftrise için hazırladığı, topluluğun beğendiği projeleri buradan inceleyebilirsiniz.
 *   **`Geliştirilenler/`**: Şu an üzerinde aktif olarak çalıştığım ve geliştirme aşamasında olan projeler burada yer almaktadır.
 
----
-
 ### 🔗 İletişim & Destek
 Proje hakkında soru sormak veya destek almak için:
 
@@ -22,7 +20,8 @@ Proje hakkında soru sormak veya destek almak için:
 *   **YouTube:** [YouTube Kanalım İçin Tıklayın](https://youtube.com)
 *   **Web:** [sokakticareti.com](https://sokakticareti.com)
 
----
+![Profil Resmi](https://sokakticareti.com/profil/resim/ahmedglckc)
+
 
 > **⚠️ ÖNEMLİ:** Sistemin kararlılığı için dosya yollarını değiştirmeyin. Her klasörün içindeki `README.md` dosyasını mutlaka okuyun. 
 > *İşlemleri sonlandırmak için **Delete** tuşunu kullanın.*
