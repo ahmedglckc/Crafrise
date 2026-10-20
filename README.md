@@ -1,25 +1,41 @@
-# 🛠 Craftrise Yazılım Köşesi
+# 🛠️ Craftrise Yazılım Köşesi
 
 **Aradığınız her şey burada.** 
 Craftrise dünyası için geliştirdiğim tüm araçlara, modüllere ve güncel yazılımlara bu panel üzerinden ulaşabilirsiniz.
 
 ---
 
-### 📂 Modül Dizini
+## 📂 Klasörler ve Araçlar
 
-*   **`Bulunanlar/`**: Özel olarak geliştirdiğim ve talep üzerine eklenen tüm araçlar burada.
-*   **`Sizinkiler/`**: Başkalarının Craftrise için hazırladığı, topluluğun beğendiği projeleri buradan inceleyebilirsiniz.
-*   **`Geliştirilenler/`**: Şu an üzerinde aktif olarak çalıştığım ve geliştirme aşamasında olan projeler burada yer almaktadır.
+Aşağıda proje içerisinde yer alan klasörleri ve bu klasörlerin tam olarak ne işe yaradığını bulabilirsiniz:
 
-### 🔗 İletişim & Destek
-Proje hakkında soru sormak veya destek almak için:
+*   **`craftrise-dll-viewer/`** 
+    Oyunun arka planda yüklediği tüm DLL dosyalarını listeler. Yeni yüklenenleri anında kırmızı ile işaretler ve herhangi bir DLL'in içeriğini (export, import, section) incelemenizi sağlar.
 
-*   **Discord:** [https://guns.lol/ahmedglckc](https://guns.lol/ahmedglckc)
-*   **YouTube:** [YouTube Kanalım İçin Tıklayın](https://youtube.com)
-*   **Web:** [sokakticareti.com](https://sokakticareti.com)
+*   **`craftrise-password-recovery/`** 
+    Launcher'da "Beni hatırla" diyerek kaydettiğiniz şifreli parolaları, orijinal sunucu protokolünü kullanarak çözer ve açık metin olarak gösterir.
 
-![Profil Resmi](https://sokakticareti.com/profil/resim/ahmedglckc)
+*   **`craftrise-player-finder/`** 
+    Oyunun belleğini (RAM) canlı olarak tarar. O an sunucuda bulunan oyuncuların isimlerini yakalar ve ekrana döker. Her ismi sadece bir kez gösterir.
 
+*   **`craftrise-world-tracker/`** 
+    Discord RPC (Rich Presence) verilerini okuyarak oyun içinde hangi dünyada (state) ve hangi modda (details) olduğunuzu anlık olarak takip eder.
 
-> **⚠️ ÖNEMLİ:** Sistemin kararlılığı için dosya yollarını değiştirmeyin. Her klasörün içindeki `README.md` dosyasını mutlaka okuyun. 
-> *İşlemleri sonlandırmak için **Delete** tuşunu kullanın.*
+> 💡 **Not:** Her klasörün içinde o araca özel detaylı bir `README.md` dosyası bulunur. Kurulum ve kullanım için o dosyaları okumayı unutmayın.
+
+---
+
+## 🔗 İletişim & Destek
+
+Proje hakkında soru sormak, hata bildirmek veya destek almak için:
+
+*   💬 **Discord:** [guns.lol/ahmedglckc](https://guns.lol/ahmedglckc)
+*   ▶️ **YouTube:** [YouTube Kanalım İçin Tıklayın](https://youtube.com)
+*   🌐 **Web:** [sokakticareti.com](https://sokakticareti.com)
+
+---
+
+> **⚠️ ÖNEMLİ:** 
+> *   Sistemin kararlılığı için dosya yollarını değiştirmeyin. 
+> *   Her klasörün içindeki `README.md` dosyasını mutlaka okuyun. 
+> *   *İşlemleri sonlandırmak için **Delete** tuşunu kullanın.*
