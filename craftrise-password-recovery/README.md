@@ -45,4 +45,4 @@ CraftRise Launcher, "Beni hatırla" seçeneği işaretlendiğinde kullanıcını
 ## 🚀 Kullanım
 
 ```bash
-python cözücü.py
+python craftrise-password-recovery.py
