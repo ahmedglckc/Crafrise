@@ -9,6 +9,9 @@ Craftrise dünyası için geliştirdiğim tüm araçlara, modüllere ve güncel 
 
 Aşağıda proje içerisinde yer alan klasörleri ve bu klasörlerin tam olarak ne işe yaradığını bulabilirsiniz:
 
+*   **`craftrise-pack-scanner/`** *(YENİ)*
+    Texture pack (doku paketi) dosyalarının içini statik olarak analiz eder. RAT, çift uzantılı virüsler (`resim.png.exe`) ve şüpheli çalıştırılabilir dosyaları tespit ederek size risk raporu sunar.
+
 *   **`craftrise-dll-viewer/`** 
     Oyunun arka planda yüklediği tüm DLL dosyalarını listeler. Yeni yüklenenleri anında kırmızı ile işaretler ve herhangi bir DLL'in içeriğini (export, import, section) incelemenizi sağlar.
 
