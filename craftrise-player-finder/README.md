@@ -13,8 +13,7 @@
 CraftRise, oyuncu verilerini bellek içinde belirli JSON-benzeri kalıplarla tutar. Bu araç:
 
 - 🧠 `craftrise-x64.exe` sürecinin belleğini okur
-- 🔍 `MC|Data{"3x7":[...]` biçimindeki kalıpları arar
-- 🏷️ `3x8` ve `4x5` anahtarları altındaki **oyuncu isimlerini** çıkarır
+- 🏷️**oyuncu isimlerini** çıkarır
 - ♻️ Her ismi **yalnızca 1 kez** gösterir (tekrar yok)
 - ⚡ Arka planda sürekli tarar — yeni oyuncu geldiği an ekrana basar
 
@@ -27,7 +26,6 @@ CraftRise, oyuncu verilerini bellek içinde belirli JSON-benzeri kalıplarla tut
 | Özellik | Açıklama |
 |---|---|
 | 🔄 Sürekli tarama | 0.5 saniyede bir tüm belleği tarar |
-| 🎯 Kalıp eşleştirme | İki farklı `MC|Data` şemasını destekler |
 | 🚫 Tekrar filtresi | Aynı ismi bir kez yazar (`seen` seti) |
 | 📍 Bellek adresi | Her ismin bulunduğu **mutlak adresi** gösterir |
 | ⏱️ Zaman damgası | Her bulgu `[HH:MM:SS]` formatında |
